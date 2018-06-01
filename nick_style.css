@@ -79,10 +79,10 @@ html, body {
     width:100%;
 }
 
-.supporting .col-md-8 {
+.supporting .col-md-10 {
     font-family: times-new-roman;
     font-style: italic;
-    align-content: center;
+    text-align: center;
 }
 
 

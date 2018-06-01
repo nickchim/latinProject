@@ -79,6 +79,12 @@ html, body {
     width:100%;
 }
 
+.supporting .col-md-8 {
+    font-family: times-new-roman;
+    font-style: italic;
+    align-content: center;
+}
+
 
 .supporting .container {
     margin-left: 20%;

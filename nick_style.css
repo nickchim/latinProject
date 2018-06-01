@@ -1,0 +1,181 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+}
+
+.container {
+    width: 90%;
+}
+
+.header {
+    background: #dbccab;
+}
+
+.header img {
+    width: 25%;
+    height: 25%;
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.header .col-md-6 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.header h1, .header h3 {
+    color: #fff1cc;
+    font-weight: bold;
+}
+
+.header h3 {
+    font-weight: normal;
+    font-family: times-new-roman;
+}
+.header .col-md-4 {
+    padding-top: 23.5px;
+}
+
+.main {
+    background: url(http://alison-morton.com/blog/wp-content/uploads/2011/10/scan0002.jpg) no-repeat center center fixed;
+}
+
+.main .container {
+    padding-top: 35px;
+    padding-bottom: 240px;
+    padding-left: 20px;
+}
+
+
+.main h1 {
+    font-size: 75px;
+    font-weight: 1500;
+    color: #E6AB2C;
+}
+
+.main p {
+    color: #fff1cc;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px
+}
+
+
+.main .division {
+    width: 100%;
+    height: 20px;
+}
+
+.supporting {
+    background: #dbccab; 
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.supporting .divider {
+    height:20px;
+    width:100%;
+}
+
+
+.supporting .container {
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    
+    background: center center fixed;
+    
+    background-color: #fff1cc;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: #E6AB2C;
+    width:60%;
+}
+
+
+.supporting .col-md-8 {
+    padding-top: 15px;
+}
+
+.supporting .col-md-12 {
+    padding-bottom: 15px;
+    padding-top:10px;
+    font-family: times-new-roman;
+}
+
+.supporting .text {
+    align-content: center;
+    font-family: times-new-roman;
+    font-style: italic;
+}
+
+
+.supporting .division {
+    width: 100%;
+    height: 25px;
+}
+
+
+.supporting h4 {
+    color: #E6AB2C;
+    font-weight: 550;
+}
+
+.supporting h5 {
+    color:#896821;
+    font-weight:300;
+}
+
+.supporting .col-md-12 .division {
+    width: 100%;
+    height: 30px;
+}
+
+.supporting img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    width:60%;
+}
+
+.footer {
+    background: #896821;
+    padding-top:15px;
+    padding-bottom: 15px
+}
+
+.footer p {
+    font-size: 12px;
+}
+
+.footer .col-md-5 {
+    background: #896821;
+    padding-top: 19px;
+    padding-bottom:19px;
+}
+
+.footer .col-md-2 {
+    background: #896821;
+    padding-bottom: 15px;
+}
+
+.footer .col-md-5:nth-child(3) p{
+    float: right
+}
+
+.footer img {
+    height:50px;
+    width:50x;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+

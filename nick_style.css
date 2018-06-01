@@ -39,7 +39,7 @@ html, body {
 }
 
 .main {
-    background: url(http://alison-morton.com/blog/wp-content/uploads/2011/10/scan0002.jpg) no-repeat center center fixed;
+    background: url(background.jpg) no-repeat center center fixed;
 }
 
 .main .container {
